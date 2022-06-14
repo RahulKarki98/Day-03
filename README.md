@@ -1,1 +1,2 @@
-# Day-03
+Q! For the given JSON iterate over all for loops (for, for in, for of, forEach) ?
+
